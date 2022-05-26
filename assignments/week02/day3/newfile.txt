@@ -1,0 +1,32 @@
+Q-1) Explain the working of the following commands:
+
+1. pwd      -  this command prints the address of the directory we are present in.
+
+2. ls -l    -  this command displays all the directory contents with details.
+
+3. ls -a    -  this command displays all the files of the directory we are in including hidden files and folders.
+ 
+4. mkdir    -  this command creates new directory.
+
+5. rm       -  rm command is used to remove files or directory through terminal.
+
+6. cp       -  this command copies files/directories from source to destination.
+
+7. cp -r    -  thsi command copies all the files recursively from source branch.
+
+8. mv       -  this command moves files/directories from source to destination.
+
+9. rm -f    -  this command removes files/directories forcefully.
+
+10. rm -r   -  this command removes all the files/directories of the branch.
+
+11. echo    -  this command writes/overwrites the lines/strings in any file we want to.
+
+12. cat     -  this command reads the lines/data inside the file and displays it as an output.
+
+13. history -  this command lists all the commands which are used in terminal for the current session.
+ 
+14. man     -  this command which displays the user manual of any command we use in terminal.
+
+15. head    -  this command displays the first ten lines of the file we input using this command.    
+(#4)
