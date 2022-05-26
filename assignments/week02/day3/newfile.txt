@@ -28,5 +28,5 @@ Q-1) Explain the working of the following commands:
  
 14. man     -  this command which displays the user manual of any command we use in terminal.
 
-15. head    -  this command displays the first ten lines of the file we input using this command.    
+15. head    -  this command displays the first ten lines of the file we input using this command.     
 (#4)
